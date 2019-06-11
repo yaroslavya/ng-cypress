@@ -7,6 +7,7 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
+    "rec": "cypress run --record --key 659f2f3d-7a9c-49e7-8011-5caef50fb585",
     "e2e": "cypress open"
   },
   "private": true,
