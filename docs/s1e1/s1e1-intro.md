@@ -11,4 +11,4 @@ Heres the deal about this tool:
 - as we are comparing it to protractor its way more reliable
 - its very simple to install and use with any project
 - it can stub and mock the xhrs
-- has an awesome api
+- has an awesome api - not actually true as Im still evaluating it
